@@ -1,4 +1,4 @@
-Contact/Address Book (Rest Backend) Concept - Assessment
+<!-- Contact/Address Book (Rest Backend) Concept - Assessment
 ===
 
 You will be tasked with creating a nodejs based REST application which will serve as a data source for an existing Contact/Address book web and mobile application.
@@ -50,4 +50,4 @@ Start Development
 
 Submitting
 --
-Push the repo to your favourite repo platform and share the url.
+Push the repo to your favourite repo platform and share the url. -->
